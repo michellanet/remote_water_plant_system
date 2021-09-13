@@ -1,0 +1,13 @@
+.OpenSans-font {
+  font-family: "OpenSans";
+  font-size: 22px;
+}
+.plant-photo {
+  height: 130px;
+  object-fit: cover;
+  width: 130px;
+}
+div.plant:hover {
+  color: rgb(192, 189, 189);
+  cursor: pointer;
+}
