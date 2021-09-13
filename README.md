@@ -34,4 +34,5 @@ Application to water plants remotely. Frontend and backend built using React and
 2. Goto frontend directore: 'cd sv-plants-frontend'
 3. Install dependencies: `npm ci`
 4. Run frontend: `npm start`
+5. Open url on browser: http://localhost:3000 
   
