@@ -73,6 +73,7 @@ export const AppProvider = (props) => {
     if (timeFormat === "seconds") {
       return moment.duration(b.diff(a)).seconds();
     } else {
+      const b = moment(new Date());
       return moment.duration(b.diff(a)).hours();
     }
   };
