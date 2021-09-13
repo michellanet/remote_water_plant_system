@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\michellanet\\source\\repos\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj": {}
+    "C:\\Users\\michellanet\\Downloads\\remote_water_plant_system\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\michellanet\\source\\repos\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj": {
+    "C:\\Users\\michellanet\\Downloads\\remote_water_plant_system\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michellanet\\source\\repos\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\michellanet\\Downloads\\remote_water_plant_system\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj",
         "projectName": "SVPlantsAPI",
-        "projectPath": "C:\\Users\\michellanet\\source\\repos\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj",
+        "projectPath": "C:\\Users\\michellanet\\Downloads\\remote_water_plant_system\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj",
         "packagesPath": "C:\\Users\\michellanet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michellanet\\source\\repos\\WaterPlantAPI\\WaterPlantAPI\\obj\\",
+        "outputPath": "C:\\Users\\michellanet\\Downloads\\remote_water_plant_system\\WaterPlantAPI\\WaterPlantAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

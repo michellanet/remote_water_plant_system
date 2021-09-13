@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DleP+LJgLD85+9x48USgc460WCPb06pQ3YMBAQEyHC4UhdxQcUC813cLmDOZFQwKk6ng+xsJ8dk+jdi+bsDF3A==",
+  "dgSpecHash": "YrXpyP1fABL723qtWey4+CjJVwWIOEZWpi1mB++0CTBixQNMBS6SM9JJudpGlAFHd4keQfqW5dkYhGheageuvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\michellanet\\source\\repos\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj",
+  "projectFilePath": "C:\\Users\\michellanet\\Downloads\\remote_water_plant_system\\WaterPlantAPI\\WaterPlantAPI\\SVPlantsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michellanet\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\michellanet\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
