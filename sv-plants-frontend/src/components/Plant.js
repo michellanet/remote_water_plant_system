@@ -88,7 +88,7 @@ const Plant = (props) => {
         className="col-md-3 text-center"
       >
         <img
-          src={getPlantPhoto(props.plant.PlantPhotoFileName)}
+          src={getPlantPhoto(props.plant?.PlantPhotoFileName)}
           className="plant-photo img-thumbnail rounded"
           alt={props.plant.PlantName}
         />
@@ -98,20 +98,20 @@ const Plant = (props) => {
         className="col-md-6"
       >
         <div className="row">
-          <p className="h2 text-center">{props.plant.PlantName}</p>
+          <p className="h2 text-center">{props.plant?.PlantName}</p>
           <table className="table table-borderless">
             <tbody>
               <tr>
                 <td className="fs-5">Last Watered :</td>
                 <td>
-                  {moment(props.plant.WaterStartTime).format(
+                  {moment(props.plant?.WaterStartTime).format(
                     "dddd, MMMM Do YYYY, h:mm:ss a"
                   )}
                 </td>
               </tr>
               <tr>
                 <td className="fs-5">Last Water Duration: </td>
-                <td>{`${props.plant.WaterDuration} second(s)`}</td>
+                <td>{`${props.plant?.WaterDuration} second(s)`}</td>
               </tr>
             </tbody>
           </table>
